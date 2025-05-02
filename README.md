@@ -1,6 +1,6 @@
 ### Hello World! I'am Irgi Winarno 👋
 
-![irgiwinarno](img/github-header-image.png)
+![irgiwinarno](img/github-header-image2.png)
 
 ### Hello World! I'am Irgi Winarno 👋
 
